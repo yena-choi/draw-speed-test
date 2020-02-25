@@ -10,6 +10,8 @@ class MainActivity : AppCompatActivity() {
 
 //    lateinit var colorList: ArrayList<Int>
 
+    // This is a test
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
